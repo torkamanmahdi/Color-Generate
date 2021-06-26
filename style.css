@@ -1,0 +1,33 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	text-align: center;
+}
+.demo-color {
+	width: 240px;
+	height: 200px;
+	margin: 1rem auto;
+	display: block;
+	border: 1px solid black;
+}
+button {
+	background: teal;
+	color: white;
+	border: unset;
+	padding: .5rem 2rem;
+	cursor: pointer;
+	margin: 1rem auto;
+	display: block;
+}
+input[type="text"] {
+	padding: .3rem 1rem;
+	font-size: 1.3rem;
+	margin: 1rem auto;
+	display: block;
+	width: 205px;
+}
+.copyright {
+	margin-top: 4rem;
+	text-align: center;
+}
